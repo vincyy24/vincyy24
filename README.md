@@ -48,6 +48,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincyy24&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Most Used Languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincyy24&theme=onedark" alt="Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vincyy24&theme=onedark" alt="Streak Stats" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vincyy24&show_icons=true&theme=onedark&locale=en" alt="Github Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vincyy24&show_icons=true&theme=onedark&locale=en" alt="Github Stats" /></p>
