@@ -46,8 +46,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vincyy24&show_icons=true&theme=onedark&locale=en" alt="Github Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincyy24&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Most Used Languages" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincyy24&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Most Used Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=vincyy24&show_icons=true&theme=onedark&locale=en" alt="Github Stats" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vincyy24&theme=onedark" alt="Streak Stats" /></p>
