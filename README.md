@@ -1,8 +1,6 @@
-# Hi 👋, I'm Vaibhav
+# 👋 Hi, I'm Vaibhav:octocat:
 
 ![Vincyy24](https://komarev.com/ghpvc/?username=vincyy24&label=Profile%20visits&color=43dba1&style=flat)
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vincyy24&theme=onedark&margin-w=4&column=-1&no-frame=true" alt="Trophies / Achievements" /></p>
 
 ### A Rookie Developer from India :shipit:
 -   :suspect: Age 20
@@ -49,5 +47,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincyy24&show_icons=true&theme=onedark&locale=en&layout=compact&hide_border=true" alt="Most Used Languages" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=vincyy24&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="Github Stats" /></p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vincyy24&theme=onedark&margin-w=4&column=-1&no-frame=true" alt="Trophies / Achievements" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vincyy24&theme=onedark&hide_border=true" alt="Streak Stats" /></p>
