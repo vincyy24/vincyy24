@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vaibhav:octocat:
+# 👋 Hi, I'm Vaibhav :octocat:
 
 ![Vincyy24](https://komarev.com/ghpvc/?username=vincyy24&label=Profile%20visits&color=43dba1&style=flat)
 
