@@ -3,13 +3,13 @@
 ![Vincyy24](https://komarev.com/ghpvc/?username=vincyy24&label=Profile%20visits&color=43dba1&style=flat)
 
 ### A Rookie Developer from India :shipit:
--   :suspect: Age 20
+-   :suspect: Age 22
 
 -   :basecamp: I’m currently learning **NextJs**
 
 -   :bowtie: I’m looking to collaborate on **Open Source Projects**
 
--   :accessibility: Ask me about **React, JavaScript, CSS, & Python Web Applications**
+-   :accessibility: Ask me about **React, JavaScript, TypeScript, CSS, Python, or anything in general**
 
 ### Languages and Tools
 
